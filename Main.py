@@ -2,7 +2,6 @@ import tkinter, tkinter.constants, tkinter.filedialog, textwrap
 from tkinter import *
 from tkinter.filedialog import askopenfilenames
 
-
 class MainApp:
 
         fileNames = []
